@@ -1,0 +1,10 @@
+## Pages
+- [About Us - Clouditary](/about): Learn about Clouditary, a global IT training and technology solutions company specializing in Cloud Training, Data Engineering, and Cyber Security.
+- [All Cloud Courses | Clouditary](/courseslisting): Browse our comprehensive catalog of AWS, Azure, and Google Cloud certification courses.
+- [AWS Certification Courses | Clouditary](/awscourses): Master Amazon Web Services with our expert-led AWS certification training courses.
+- [AWS Certified Cloud Practitioner Training | Clouditary](/coursedetail): Master the fundamentals of AWS with our comprehensive AWS Certified Cloud Practitioner course. Hands-on labs and practice exams included.
+- [Clouditary - Master Cloud Certifications](/home): Industry-leading training for AWS, Azure, and Google Cloud certifications. Expert-led courses, hands-on labs, and practice exams.
+- [Contact Us - Clouditary](/contact): Contact Clouditary for inquiries about our IT training, Cloud Computing courses, and technology solutions.
+- [Google Cloud Certification Courses | Clouditary](/gcpcourses): Master Google Cloud Platform with our expert-led GCP certification training courses.
+- [IT Certifications - Clouditary](/certifications): Explore top IT certifications in Azure, AWS, GCP, DevOps, Security, and AI/ML. Accelerate your career with industry-recognized credentials.
+- [Microsoft Azure Certification Courses | Clouditary](/azurecourses): Master Microsoft Azure with our expert-led Azure certification training courses.

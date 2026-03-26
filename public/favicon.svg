@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.svg.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Roots (Green) -->
+  <path d="M24 42v8c0 3-2 6-4 8m8-16v12c0 3 1 6 2 8m6-20v8c0 4 3 6 5 8" stroke="#10B981" stroke-width="3" stroke-linecap="round" fill="none"/>
+  
+  <!-- Cloud (Blue) -->
+  <path d="M20 44c-7.7 0-14-6.3-14-14 0-7.3 5.6-13.3 12.8-13.9C21.3 9.4 28 5 36 5c9 0 16.6 6.1 18.5 14.5 5 1.2 8.5 5.7 8.5 11.5 0 6.6-5.4 12-12 12H20z" fill="#0EA5E9"/>
+  
+  <!-- Y/Tree Symbol (White) -->
+  <path d="M32 38V26m0 0l-8-8m8 8l8-8" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
